@@ -125,7 +125,6 @@ Please cite this paper as:
   publisher = {MIT Press},
   doi = {10.1162/coli_a_00461},
   url = {https://doi.org/10.1162/coli_a_00461},
-  internaltype = {journal}
 }
 ```
 
