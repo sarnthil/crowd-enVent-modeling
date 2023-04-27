@@ -95,6 +95,7 @@ Each _experiment_ or _group of experiments_ is placed in a subdirectory of the r
 2. read the corresponding `README` and the `Makefile`.
 3. edit the `schedule.sh` and the `evaluate.sh` script to include only the `combined` setting.
 
+<!--
 ## Pretrained models and where to download them from
 
 All models have been trained on our corpus **[crowd-enVENT]((https://www.romanklinger.de/data-sets/crowd-enVent2022.zip) )**.
@@ -105,6 +106,8 @@ All models have been trained on our corpus **[crowd-enVENT]((https://www.romankl
 | emotion | emotion classifier based on text and **appraisal values** | [to be added here]() |
 |  appraisals  | appraisal classifiers based on text | [to be added here]() |
 |  appraisals  | appraisal regressors based on text | [to be added here]() |
+
+-->
 
 ## Citation
 
